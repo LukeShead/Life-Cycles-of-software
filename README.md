@@ -23,3 +23,7 @@ The Spiral Model is the child of the Prototyping and Waterfall models, it combin
 ### The fourth model is the RAD:
 
 RAD or otherwise known as the Rapid Application Development model is where the team will use prototyping instead of planning, this means that there is almost no planning that will go into the development it will only go into prototyping and building. This can be very useful for a project that has a short deadline, as well as this it means that changes can be made throughout the production. However, what this means is that the project can be flexible, however what this also means is that sometimes for a project to be completed they must be done properly, and the team that are designing it must all be experienced in order to make it faster for the project to be completed, also if there are any issues with communication it can highly impact the project.
+
+### Traditional and agile:
+
+
