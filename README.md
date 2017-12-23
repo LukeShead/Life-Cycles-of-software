@@ -26,4 +26,4 @@ RAD or otherwise known as the Rapid Application Development model is where the t
 
 ### Traditional and agile:
 
-
+Traditional models are models like the waterfall model where everything is planned from the start, this includes the different steps that the process will need to follow and the development process. These models are used for more important projects that have a timeframe that is reasonable to have time to do this planning. Agile is the opposite to this as it is where self 
