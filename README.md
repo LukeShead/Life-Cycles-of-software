@@ -18,7 +18,11 @@ This is also called evolutionary prototyping, it is the process of creating mult
 
 ### Third up is the Spiral Model:
 
-The Spiral Model is the child of the Prototyping and Waterfall models, it combines elements from each one in order to make a new model that focuses on constant testing as well as keeping each part separate from the other, this is done by major companies as it can take up a lot of time and money to execute however much better quality is ensured this way. This entire model has pros and cons of the first two put together it is a very safe but quite expensive in money and time. A spiral Model can be very effective, one reason for this is because of how the risks are managed in the spiral model. As there are steps at every point, the 3rd is to analyse any risks and resolve them before continuing. By doing this method it ensures that all potential risks that could appear will be dealt with before they can become a problem. This method is used with everystep that is used with the spiral model, because of this the risks of the project can be managed very well due to this tactic.
+The Spiral Model is the child of the Prototyping and Waterfall models, it combines elements from each one in order to make a new model that focuses on constant testing as well as keeping each part separate from the other, this is done by major companies as it can take up a lot of time and money to execute however much better quality is ensured this way. This entire model has pros and cons of the first two put together it is a very safe but quite expensive in money and time.
+
+### How Risks are managed with the spiral model:
+
+A spiral Model can be very effective, one reason for this is because of how the risks are managed in the spiral model. As there are steps at every point, the 3rd is to analyse any risks and resolve them before continuing. By doing this method it ensures that all potential risks that could appear will be dealt with before they can become a problem. This method is used with everystep that is used with the spiral model, because of this the risks of the project can be managed very well due to this tactic.
 
 
 ### The fourth model is the RAD:
