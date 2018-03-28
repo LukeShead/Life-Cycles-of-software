@@ -22,8 +22,10 @@ The Spiral Model is the child of the Prototyping and Waterfall models, it combin
 
 ### How Risks are managed with the spiral model:
 
-A spiral Model can be very effective, one reason for this is because of how the risks are managed in the spiral model. As there are steps at every point, the 3rd is to analyse any risks and resolve them before continuing. By doing this method it ensures that all potential risks that could appear will be dealt with before they can become a problem. 
-This method is used with everystep that is used with the spiral model, because of this the risks of the project can be managed very well due to this tactic.
+A spiral Model can be very effective, one reason for this is because of how the risks are managed in the spiral model. As there are steps at every point, the 3rd is to analyse any risks and resolve them before continuing. By doing this method it ensures that all potential risks that could appear will be dealt with before they can become a problem. This method is used with everystep that is used with the spiral model, because of this the risks of the project can be managed very well due to this tactic.
+
+When working as a team, the testing team and the developing team will work together by working in unison, for example once one part of the project has been developed, the testing team will begin testing it before the next part of the project is developed, this means that the development team must be have good communication methods of keeping the testing team updated in order to keep good progress on the project and stay on the scheduled time.
+
 
 
 ### The fourth model is the RAD:
