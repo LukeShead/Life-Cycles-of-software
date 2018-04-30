@@ -38,6 +38,8 @@ During the analytical stage of the model, the most amount of caution must be use
 
 When working as a team, the testing team and the developing team will work together by working in unison, for example once one part of the project has been developed, the testing team will begin testing it before the next part of the project is developed, this means that the development team must be have good communication methods of keeping the testing team updated in order to keep good progress on the project and stay on the scheduled time.
 
+When analysing different risks of a project with the spiral model, there is a special requirement of skills that are needed and there are specific expertise in order to successfuly analyse risks. The risks that can be discovered have a very wide area that they can cover from very minor and trivial risks to risks that could be potentially fatal, 
+
 ### The fifth model is the RAD:
 
 RAD or otherwise known as the Rapid Application Development model is where the team will use prototyping instead of planning, this means that there is almost no planning that will go into the development it will only go into prototyping and building. This can be very useful for a project that has a short deadline, as well as this it means that changes can be made throughout the production. However, what this means is that the project can be flexible, however what this also means is that sometimes for a project to be completed they must be done properly, and the team that are designing it must all be experienced in order to make it faster for the project to be completed, also if there are any issues with communication it can highly impact the project.
