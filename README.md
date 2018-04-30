@@ -28,11 +28,11 @@ This is also called evolutionary prototyping, it is the process of creating mult
 
 ### The fourth is the Spiral Model:
 
-The Spiral Model is the child of the Prototyping and Waterfall models, it combines elements from each one in order to make a new model that focuses on constant testing as well as keeping each part separate from the other, this is done by major companies as it can take up a lot of time and money to execute however much better quality is ensured this way. This entire model has pros and cons of the first two put together it is a very safe but quite expensive in money and time.
+The Spiral Model is a blend of the Prototyping and Waterfall models, it combines elements from each one in order to make a new model that focuses on constant testing as well as keeping each part separate from the other, this is done by major companies as it can take up a lot of time and money to execute however much better quality is ensured this way. This entire model has pros and cons of the first two put together it is a very safe but quite expensive in money and time.
 
 ### How Risks are managed with the spiral model:
 
-A spiral Model can be very effective, one reason for this is because of how the risks are managed in the spiral model. As there are steps at every point, the 3rd is to analyse any risks and resolve them before continuing. By doing this method it ensures that all potential risks that could appear will be dealt with before they can become a problem. This method is used with everystep that is used with the spiral model, because of this the risks of the project can be managed very well due to this tactic.
+A spiral Model can be very effective, one reason for this is because of how the risks are managed in the spiral model. The 3rd step within the steps of the spiral model is to analyse any risks and resolve them before continuing. By doing this method it ensures that all potential risks that could appear will be dealt with before they can hinder the project. This method is used with every step that is used with the spiral model, because of this the risks of the project can be managed very well due to this tactic.
 
 During the analytical stage of the model, the most amount of caution must be used, this is because when managing the risk within the spiral model, the risks that are identified will come from this stage. The spiral most is called a 'Risk-Driven Model', this is because it functions by identifying risks and preventing them as the project is completed. This means that in order to manage risks, they first need to be identified, this is where this stage is used the most.
 
