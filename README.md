@@ -8,14 +8,13 @@ There are many types of cycles for software development, all of these are there 
 
 ### The first, is the Waterfall cycle:
 
-The waterfall cycle is the process of planning and designing a project one part at a time, each stage of the project is looked at individually and only when the other stage before it has been fully completed, this can have it's advantages and disadvantages however it can be a very usefull way to plan projects when done correctly.
+The waterfall cycle is a sequential cycle the process of planning and designing a project one part at a time, each stage of the project is looked at individually and only when the other stage before it has been fully completed, this can have it's advantages and disadvantages however it can be a very usefull way to plan projects when done correctly.
 
 The Waterfall cycle helps people when trying to scedule and plan a project, they can use the cycle to have a better approach towards designing the project. With this it means that the different phases can be looked at individually, using the waterfall cycle a project can become much simpler for people to use, as well as this they will need to be able to look at all the different stages deliverables. What this means is that the waterfall cycle can allow the team to work on one task at a time, this means that when looking for errors, the debugging process will become much easier as they can look at the individual parts of code.
 
 ### The second is the V-Model:
 
-The V-Model is not neccessarily it's own model, it is more of a follow up of the waterfall cycle, despite this it has it's own ways of doing things that it can be seen as it's own model. The V-Model is completely reliant on the testing phase of each stage of the project, like the waterfall, it does not move to the next stage until the stage it is currently on is fully tested and completed. Where the     V-Model is different is that the model does not work from the top down, but rather the bottom up, how this is done is that all of the simple problems are solved first, the problems will get more complex the further up that t
-
+The V-Model is not neccessarily it's own model, it can be seen as a follow up of the waterfall cycle, despite this it has it's own ways of doing things that it can be seen as it's own model. The V-Model is completely reliant on the testing phase of each stage of the project, like the waterfall, it does not move to the next stage until the stage it is currently on is fully tested and completed. Where the V-Model is different is that the model does not work from the top down, but rather the bottom up, how this is done is that all of the simple problems are solved first, the problems will get more complex the further up the project goes, once a problem that is too complex appears, the model is worked back down testing each element of the stage. On one side of the model is the validation testing and another is the verification testing, these are both followed when testing the issues that occur.
 
 ### The third is the Evolutionary/Prototyping cycle:
 
