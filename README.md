@@ -38,7 +38,7 @@ During the analytical stage of the model, the most amount of caution must be use
 
 When working as a team, the testing team and the developing team will work together by working in unison, for example once one part of the project has been developed, the testing team will begin testing it before the next part of the project is developed, this means that the development team must be have good communication methods of keeping the testing team updated in order to keep good progress on the project and stay on the scheduled time.
 
-When analysing different risks of a project with the spiral model, there is a special requirement of skills that are needed and there are specific expertise in order to successfuly analyse risks. The risks that can be discovered have a very wide area that they can cover from very minor and trivial risks to risks that could be potentially fatal, 
+When analysing different risks of a project with the spiral model, there is a special requirement of skills that are needed and there are specific expertise in order to successfuly analyse risks. The risks that can be discovered have a very wide area that they can cover from very minor and trivial risks to risks that could be potentially fatal to the project, because of this the risks must be put into an order of priority that can be looked back onto in order to see what risks are worse than others and as of such, what risks to deal with first. Whenever this stage is completed, the next step is to make a prototype of the project in order to mark down how the analysis went.
 
 ### The fifth model is the RAD:
 
